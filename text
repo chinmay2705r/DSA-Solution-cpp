@@ -1,0 +1,8 @@
+# f = open("raksha.txt","r+")
+# file = f.write("Chinmay")
+# print
+# f.close()
+
+with open("raksha.txt","r") as f:
+    data = f.read
+    print(data)
