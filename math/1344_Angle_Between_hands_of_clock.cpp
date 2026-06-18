@@ -16,3 +16,19 @@ public:
         
     }
 };
+
+int main(){
+    Solution sol;
+    int hour, minutes;
+
+    cout << "Enter Hours(1-12):";
+    cin>> hour;
+    cout <<"Eneter Minutes(0-59):";
+    cin >> minutes;
+
+    double Result = sol.angleClock(hour, minutes);
+    cout <<" The angle between the clock is "<< Result<< endl;
+
+    return 0;
+
+}
