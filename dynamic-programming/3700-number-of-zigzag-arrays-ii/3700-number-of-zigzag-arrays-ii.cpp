@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 class Solution {
 private:
     long long MOD = 1e9 + 7;
@@ -43,11 +46,9 @@ public:
         if (n == 1) return numValues;
         if (n == 2) return ((long long)numValues * (numValues - 1)) % MOD;
 
-        // Total states = (number of values) * (2 directions: 0 = UP, 1 = DOWN)
+       
         int totalStates = numValues * 2;
 
-        // Transition matrix T where T[next_state][current_state] = 1 if valid step
-        // Fixed the constructor initialization here:
         vector<vector<long long>> T(totalStates, vector<long long>(totalStates, 0));
         
         // Build the movement logic grid
@@ -56,11 +57,9 @@ public:
                 int currState = currV * 2 + currD;
                 
                 for (int nextV = 0; nextV < numValues; nextV++) {
-                    if (currV == nextV) continue; // Rule 1: No identical adjacent elements
+                    if (currV == nextV) continue; 
                     
-                    int nextD = (nextV > currV) ? 0 : 1; // 0 for UP, 1 for DOWN
-                    
-                    // Rule 2: Sequence must alternate direction (no 3 elements in same slope)
+                    int nextD = (nextV > currV) ? 0 : 1; 
                     if (currD == nextD) continue; 
                     
                     int nextState = nextV * 2 + nextD;
@@ -69,10 +68,8 @@ public:
             }
         }
 
-        // Fast forward through remaining array slots (n - 2 operations)
         T = powerMatrix(T, n - 2);
 
-        // Precompute total baseline combinations at array length 2
         vector<long long> baseStates(totalStates, 0);
         for (int i = 0; i < numValues; i++) {
             for (int j = 0; j < numValues; j++) {
@@ -81,8 +78,6 @@ public:
                 baseStates[j * 2 + dir]++;
             }
         }
-
-        // Multiply exponentiated transformation map against initial pairs
         long long totalCount = 0;
         for (int i = 0; i < totalStates; i++) {
             for (int j = 0; j < totalStates; j++) {
