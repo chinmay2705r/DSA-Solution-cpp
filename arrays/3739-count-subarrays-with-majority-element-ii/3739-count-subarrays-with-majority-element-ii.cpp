@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
    long long countMajoritySubarrays(vector<int>& nums, int target) {
