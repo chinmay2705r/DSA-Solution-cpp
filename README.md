@@ -102,4 +102,16 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
