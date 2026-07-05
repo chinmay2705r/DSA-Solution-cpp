@@ -48,6 +48,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -60,6 +61,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -157,6 +159,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
