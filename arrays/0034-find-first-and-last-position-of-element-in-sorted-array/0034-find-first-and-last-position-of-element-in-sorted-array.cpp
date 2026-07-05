@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 class Solution {
 private:
     int findBound(const vector<int>& nums, int target, bool isFirst) {
