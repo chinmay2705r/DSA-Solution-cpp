@@ -64,6 +64,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0039-combination-sum) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -146,6 +147,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0039-combination-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
