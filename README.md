@@ -12,6 +12,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
 | ------- |
