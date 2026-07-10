@@ -19,6 +19,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -85,6 +87,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -107,6 +110,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -126,6 +130,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -135,12 +140,14 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -177,6 +184,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
