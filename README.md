@@ -136,6 +136,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
