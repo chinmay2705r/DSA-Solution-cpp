@@ -20,6 +20,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0190-reverse-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
