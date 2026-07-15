@@ -13,6 +13,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -231,6 +232,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
