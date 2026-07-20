@@ -263,6 +263,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
