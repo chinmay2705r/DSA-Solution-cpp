@@ -146,6 +146,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -185,12 +186,14 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -198,6 +201,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 ## Sliding Window
