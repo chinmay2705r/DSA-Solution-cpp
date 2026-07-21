@@ -189,6 +189,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -197,6 +198,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
@@ -206,6 +208,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 ## Sliding Window
 |  |
@@ -223,6 +226,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0100-same-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
