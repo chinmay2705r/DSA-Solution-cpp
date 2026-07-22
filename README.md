@@ -33,6 +33,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0012-integer-to-roman](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -135,6 +136,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -279,6 +281,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
