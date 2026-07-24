@@ -42,6 +42,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -110,6 +111,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
@@ -146,6 +148,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
@@ -169,6 +172,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
+| [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
