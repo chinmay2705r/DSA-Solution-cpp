@@ -38,6 +38,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
@@ -61,6 +62,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
