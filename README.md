@@ -40,6 +40,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -107,6 +108,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -240,6 +242,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
