@@ -11,6 +11,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
@@ -109,6 +110,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0134-gas-station](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -203,6 +205,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
