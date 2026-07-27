@@ -42,6 +42,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -66,6 +67,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0071-simplify-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -211,6 +213,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
