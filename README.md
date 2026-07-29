@@ -12,6 +12,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -342,6 +343,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 ## Brainteaser
 |  |
 | ------- |
