@@ -18,6 +18,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
+| [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
@@ -79,6 +80,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 | [0796-rotate-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0796-rotate-string) |
+| [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
