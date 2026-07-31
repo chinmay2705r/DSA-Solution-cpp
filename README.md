@@ -18,6 +18,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -105,6 +106,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -376,4 +378,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
