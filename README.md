@@ -16,6 +16,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
@@ -105,6 +106,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
+| [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -134,6 +136,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0414-third-maximum-number) |
+| [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
@@ -364,6 +367,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0203-remove-linked-list-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 ## Brainteaser
 |  |
 | ------- |
@@ -373,6 +377,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
