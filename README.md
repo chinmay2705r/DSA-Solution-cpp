@@ -208,6 +208,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0020-valid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0155-min-stack) |
 ## Simulation
 |  |
 | ------- |
@@ -398,4 +399,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
