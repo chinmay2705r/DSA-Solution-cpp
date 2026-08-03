@@ -412,4 +412,12 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0155-min-stack) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
