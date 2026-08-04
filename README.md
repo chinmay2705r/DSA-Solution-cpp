@@ -91,6 +91,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -159,6 +160,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2784-check-if-array-is-good) |
