@@ -12,6 +12,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
@@ -42,6 +43,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0029-divide-two-integers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -326,6 +328,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0039-combination-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
