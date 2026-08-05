@@ -34,6 +34,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3700-number-of-zigzag-arrays-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
