@@ -297,6 +297,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -330,12 +331,14 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
