@@ -97,6 +97,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
