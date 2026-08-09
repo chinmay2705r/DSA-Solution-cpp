@@ -23,6 +23,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,6 +128,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
@@ -138,6 +140,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -160,6 +163,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -438,6 +442,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
@@ -454,9 +459,11 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
