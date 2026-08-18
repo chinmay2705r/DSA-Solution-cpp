@@ -28,6 +28,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -185,6 +186,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -294,6 +296,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0134-gas-station) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
@@ -312,6 +315,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -399,6 +403,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -471,6 +476,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
@@ -490,6 +496,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -497,6 +504,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
+| [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
