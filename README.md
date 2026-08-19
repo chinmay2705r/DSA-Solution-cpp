@@ -54,6 +54,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
+| [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -72,6 +73,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -187,6 +189,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
@@ -302,6 +305,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0134-gas-station) |
+| [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
