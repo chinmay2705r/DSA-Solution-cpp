@@ -109,6 +109,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -274,6 +275,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0258-add-digits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3867-sum-of-gcd-of-formed-pairs) |
