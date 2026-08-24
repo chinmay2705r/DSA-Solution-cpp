@@ -30,6 +30,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
@@ -156,6 +157,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -166,6 +168,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -205,6 +208,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -504,6 +508,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Counting Sort
@@ -526,6 +531,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -535,6 +541,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1690-stone-game-vii) |
+| [1872-stone-game-viii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
