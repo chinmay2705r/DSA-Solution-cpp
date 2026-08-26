@@ -186,6 +186,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0228-summary-ranges) |
@@ -270,6 +271,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -304,6 +306,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
