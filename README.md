@@ -589,4 +589,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
