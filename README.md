@@ -114,6 +114,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
@@ -157,6 +158,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
