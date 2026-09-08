@@ -120,6 +120,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 | [0657-robot-return-to-origin](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -161,6 +162,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0115-distinct-subsequences](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
