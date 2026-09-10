@@ -401,6 +401,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3310-remove-methods-from-project) |
@@ -426,6 +428,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0110-balanced-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Sliding Window
 |  |
 | ------- |
