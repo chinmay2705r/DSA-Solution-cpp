@@ -96,6 +96,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3120-count-the-number-of-special-characters-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -253,6 +254,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -347,6 +349,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1291-sequential-digits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -536,6 +539,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
 | ------- |
