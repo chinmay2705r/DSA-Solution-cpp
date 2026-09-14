@@ -20,6 +20,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
@@ -619,4 +620,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0175-combine-two-tables) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
