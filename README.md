@@ -87,6 +87,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -176,6 +177,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -231,6 +233,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
@@ -349,6 +352,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
@@ -453,6 +457,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
