@@ -26,6 +26,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1137-n-th-tribonacci-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1563-stone-game-v) |
@@ -646,6 +647,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Concurrency
 |  |
 | ------- |
