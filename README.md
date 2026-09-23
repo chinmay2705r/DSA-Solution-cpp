@@ -656,6 +656,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0182-duplicate-emails) |
 ## Geometry
 |  |
 | ------- |
