@@ -139,6 +139,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
 | [1154-day-of-the-year](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -354,6 +355,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0155-min-stack) |
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -677,4 +679,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1114-print-in-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
