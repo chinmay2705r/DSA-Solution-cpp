@@ -18,6 +18,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0326-power-of-three](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0836-rectangle-overlap) |
@@ -68,6 +69,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -133,6 +135,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0657-robot-return-to-origin](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0940-distinct-subsequences-ii) |
