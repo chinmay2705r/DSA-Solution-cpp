@@ -129,6 +129,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0012-integer-to-roman](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0067-add-binary) |
@@ -188,6 +189,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0115-distinct-subsequences) |
@@ -512,6 +514,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
@@ -700,6 +703,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
