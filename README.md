@@ -140,6 +140,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0205-isomorphic-strings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -530,6 +531,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0079-word-search](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
@@ -539,6 +541,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0101-symmetric-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
