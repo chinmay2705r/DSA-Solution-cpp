@@ -107,6 +107,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [2784-check-if-array-is-good](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -300,6 +301,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [2778-sum-of-squares-of-special-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -347,6 +349,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -746,4 +749,8 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
