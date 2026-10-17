@@ -1,8 +1,3 @@
-#include <vector>
-#include <unordered_map>
-
-using namespace std;
-
 class Solution {
 private:
     static const int MOD = 1e9 + 7;
