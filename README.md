@@ -292,6 +292,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1406-stone-game-iii) |
@@ -405,6 +406,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0142-linked-list-cycle-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -453,6 +455,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0069-sqrtx](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0367-valid-perfect-square) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -518,6 +521,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1686-stone-game-vi](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1686-stone-game-vi) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1727-largest-submatrix-with-rearrangements) |
