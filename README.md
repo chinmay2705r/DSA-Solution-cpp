@@ -206,6 +206,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3312-sorted-gcd-pair-queries) |
@@ -289,6 +290,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [1140-stone-game-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
@@ -571,6 +573,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0257-binary-tree-paths) |
 | [1254-number-of-closed-islands](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -626,6 +629,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0301-remove-invalid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -663,6 +667,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [0835-image-overlap](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -695,6 +700,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
