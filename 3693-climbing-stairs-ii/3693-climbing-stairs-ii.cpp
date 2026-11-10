@@ -1,8 +1,3 @@
-#include <vector>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     int climbStairs(int n, vector<int>& costs) {
