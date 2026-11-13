@@ -4,8 +4,7 @@ public:
         int n = nums.size();
         long long ans = 0;
         long long cost = 0;
-    
-        // Monotonic deque storing {active_max_value, count_of_elements}
+        
         deque<pair<long long, int>> dq;
         int r = n - 1;
 
