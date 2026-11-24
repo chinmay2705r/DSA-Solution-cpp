@@ -146,6 +146,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/0020-valid-parentheses) |
