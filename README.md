@@ -142,6 +142,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -404,6 +405,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3886-sum-of-sortable-integers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Divide and Conquer
 |  |
@@ -505,6 +507,7 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 | [3501-maximize-active-section-with-trade-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
 ## Enumeration
 |  |
 | ------- |
@@ -903,4 +906,16 @@ Daily DSA practice in C++ at Leet Code &amp; Striver SDE Sheet solutions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/chinmay2705r/DSA-Solution-cpp/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
